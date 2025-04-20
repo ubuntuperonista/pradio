@@ -1,0 +1,54 @@
+#EXTM3U
+#MOCSERIAL: 512
+#EXTINF:-1,ANonRadio
+http://anonradio.net:8000/anonradio
+#EXTINF:-1,Tilderadio.mp3
+http://radio.tildeverse.org:8000/radio.mp3
+#EXTINF:-1,Radio Texto-plano
+http://texto-plano.xyz:8000/live.ogg
+#EXTINF:-1,PsyRadio
+http://streamer.psyradio.org:8010/progressive/
+#EXTINF:-1,Mangialsonic 25 de Mayo Radio
+http://www.mangialsonic.com.ar:8020/chm.mp3
+#EXTINF:-1,La 2x4 FM Tango
+http://media.radios.ar:9270/stream
+#EXTINF:-1,Argentine Tango Radio
+http://ais-edge94-nyc04.cdnstream.com/2202_128.mp3?fromyp=true
+#EXTINF:-1,Blur FM Buenos Aires
+http://radio.dyne.org:8000/blurfm02
+#EXTINF:-1,Rock Nacional Argentina
+http://ec3.yesstreaming.net:4500/stream
+#EXTINF:-1,Neo FM 95.3 Obera, Misiones, AR
+http://stream.valenzuelasistemas.net.ar:8000/neofm
+#EXTINF:-1,Auténtica FM Leandro N. Alen, AR
+http://streaming6.locucionar.com:24286/stream
+#EXTINF:-1,La Estación FM Salta AR
+http://01.solumedia.com.ar:8462/stream
+#EXTINF:-1,Radio Asamblea
+http://server.laradio.online:25057/live
+#EXTINF:-1,Radio Pluz
+http://www.pluz.com.ar:8020/live.aac
+#EXTINF:-1,Radio La Isla UY
+http://lirodu.zapto.org:8000/laislaradio
+#EXTINF:-1,Radio Minor
+http://radiominor.ru:8000/192khz.mp3
+#EXTINF:-1,Urban Radio
+http://ekila1.pro-fhi.net:1040/stream
+#EXTINF:-1,Kalprod Radio
+http://ecmanager6.pro-fhi.net:1290/stream
+#EXTINF:-1,Ambient Radio
+http://radio.m00.su:8001/ambient.mp3
+#EXTINF:-1,Radio Rosita
+http://mediacp.audiostreamen.nl:8000/stream
+#EXTINF:-1,City 23 Chillout
+http://stream01.zogl.net:8003/city23-chillout
+#EXTINF:-1,Rete Toscana Classica
+http://nr12.newradio.it:8744/stream
+#EXTINF:-1,Formula Melodica Radio
+http://s2.yesstreaming.net:7085/live
+#EXTINF:-1,La Buena Onda Radio
+http://s2.yesstreaming.net:7094/live
+#EXTINF:-1,Costa del Mar Ibiza Radio
+http://radio4.cdm-radio.com:8020/stream-mp3-Chill_autodj
+#EXTINF:-1,The OfficeMix SoftRock n Pop
+http://ais-edge180-jbmedia-nyc03.cdnstream.com/officemix
