@@ -1,5 +1,5 @@
 #EXTM3U
-#MOCSERIAL: 512
+#MOCSERIAL: 256
 #EXTINF:-1,ANonRadio
 http://anonradio.net:8000/anonradio
 #EXTINF:-1,Tilderadio.mp3
@@ -30,6 +30,8 @@ http://server.laradio.online:25057/live
 http://www.pluz.com.ar:8020/live.aac
 #EXTINF:-1,Radio La Isla UY
 http://lirodu.zapto.org:8000/laislaradio
+#EXTINF:-1,Radio Pipí Cucú UY
+http://comodin.uy/listen/pipi_cucu/320.mp3
 #EXTINF:-1,Radio Minor
 http://radiominor.ru:8000/192khz.mp3
 #EXTINF:-1,Urban Radio
