@@ -1,5 +1,5 @@
 #EXTM3U
-#MOCSERIAL: 256
+#MOCSERIAL: 512
 #EXTINF:-1,ANonRadio
 http://anonradio.net:8000/anonradio
 #EXTINF:-1,Tilderadio.mp3
@@ -18,6 +18,8 @@ http://ais-edge94-nyc04.cdnstream.com/2202_128.mp3?fromyp=true
 http://radio.dyne.org:8000/blurfm02
 #EXTINF:-1,Rock Nacional Argentina
 http://ec3.yesstreaming.net:4500/stream
+#EXTINF:-1,Rock n Pop AR
+http://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 #EXTINF:-1,Neo FM 95.3 Obera, Misiones, AR
 http://stream.valenzuelasistemas.net.ar:8000/neofm
 #EXTINF:-1,Auténtica FM Leandro N. Alen, AR
